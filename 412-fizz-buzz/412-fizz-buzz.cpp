@@ -1,3 +1,9 @@
+#include <bits/stdc++.h>
+
+using namespace std;
+
+string ltrim(const string &);
+string rtrim(const string &);
 class Solution {
 public:
     vector<string> fizzBuzz(int n) {
